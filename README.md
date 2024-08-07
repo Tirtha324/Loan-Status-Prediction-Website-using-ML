@@ -120,4 +120,4 @@ Thank you for using the Loan Prediction System! If you have any questions or nee
 
 **Author:** Tirtha Mondal  
 **Email:** tirthamondal91@gmail.com  
-**GitHub:** [yourusername](https://github.com/yourusername)
+**GitHub:** [Tirtha324](https://github.com/Tirtha324)
