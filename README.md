@@ -118,6 +118,6 @@ Thank you for using the Loan Prediction System! If you have any questions or nee
 
 ---
 
-**Author:** [Your Name]  
-**Email:** [your.email@example.com]  
+**Author:** Tirtha Mondal  
+**Email:** tirthamondal91@gmail.com  
 **GitHub:** [yourusername](https://github.com/yourusername)
